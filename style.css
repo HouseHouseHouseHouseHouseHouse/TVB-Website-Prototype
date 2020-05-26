@@ -73,11 +73,18 @@ body {
 }
 
 .dropdown a {
-  padding: 16px;
+  font-size: 0px;
   text-decoration: none;
   display: block;
+  text-align: left;
+  transition: 0.5s;
 }
 
 .dropdownbtn:hover .dropdown {
   display: block;
+}
+
+.dropdownbtn:hover .dropdown a {
+  padding: 16px;
+  font-size: 12px;
 }
