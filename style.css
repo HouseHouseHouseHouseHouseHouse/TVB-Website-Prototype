@@ -29,3 +29,39 @@ body {
     font-size: 70px;
   }
 }
+
+#nav {
+  position: sticky;
+  width: 100%;
+  background-color: black;
+  transition: 0.5s;
+}
+
+.nav {
+  float: right;
+  padding: 16px;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.nav:hover, .dropdown a:hover {
+  background-color: #EEEEEE;
+  color: #4CBB17;
+}
+
+.nav .active {
+  background-color: #4CBB17;
+  color: white;
+}
+
+.dropdown {
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.dropdownbtn:hover .dropdown {
+  display: block;
+}
