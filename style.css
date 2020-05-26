@@ -34,7 +34,7 @@ body {
   position: sticky;
   width: 100%;
   background-color: black;
-  transition: 0.5s;
+  padding: 0px;
 }
 
 #name {
@@ -50,6 +50,7 @@ body {
   font-weight: bold;
   text-align: center;
   text-decoration: none;
+  transition: 0.5s;
 }
 
 .nav:hover, .dropdown a:hover {
