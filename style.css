@@ -1,10 +1,17 @@
+body {
+  padding: 0px;
+}
+
 #bang {
   padding-top: 25%;
-  padding-bottom: 25%;
   width: 100%;
   background-image: url('Images/Team.JPG');
+  background-size: 100% auto;
   animation-name: blur;
   animation-duration: 3s;
+  font-size: 70px;
+  font-family: 'Fjalla One', sans-serif;
+  color: #4CBB17;
 }
 
 @keyframes blur {
