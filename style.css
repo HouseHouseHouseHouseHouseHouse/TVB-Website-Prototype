@@ -1,1 +1,20 @@
+#bang {
+  background-image: url('images/Team.JPG');
+  animation-name: blur;
+  animation-duration: 3s;
+}
 
+@keyframes blur {
+  from {
+    filter: blur(10px);
+    -webkit-filter: blur(10px);
+    font-size: 0px;
+  }
+  60% {
+    filter: blur(0px);
+    -webkit-filter: blur(0px);
+    font-size: 0px;
+  }
+  to {
+    font-size: 70px;
+  }
