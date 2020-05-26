@@ -40,8 +40,9 @@ body {
 
 #name {
   float: left;
-  font-size: 20px;
   padding: 12px;
+  font-size: 20px;
+  text-decoration: none;
 }
 
 .nav {
@@ -55,7 +56,7 @@ body {
   transition: 0.5s;
 }
 
-.nav:hover, .dropdown a:hover {
+.nav:hover {
   background-color: #EEEEEE;
   color: #4CBB17;
 }
@@ -69,6 +70,12 @@ body {
   display: none;
   position: absolute;
   z-index: 1;
+}
+
+.dropdown a {
+  padding: 16px;
+  text-decoration: none;
+  display: block;
 }
 
 .dropdownbtn:hover .dropdown {
