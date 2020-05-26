@@ -1,5 +1,8 @@
 #bang {
-  background-image: url('images/Team.JPG');
+  padding-top: 25%;
+  padding-bottom: 25%;
+  width: 100%;
+  background-image: url('Images/Team.JPG');
   animation-name: blur;
   animation-duration: 3s;
 }
