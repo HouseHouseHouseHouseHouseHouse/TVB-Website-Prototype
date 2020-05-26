@@ -33,13 +33,11 @@ body {
 #nav {
   position: sticky;
   width: 100%;
-  height: auto;
   background-color: black;
   transition: 0.5s;
 }
 
 #name {
-  float: left;
   font-size: 20px;
   padding: 12px;
 }
