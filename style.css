@@ -3,7 +3,7 @@ body {
 }
 
 #bang {
-  padding-top: 25%;
+  padding-top: 66.66%;
   width: 100%;
   background-image: url('Images/Team.JPG');
   background-size: 100% auto;
@@ -11,7 +11,7 @@ body {
   animation-duration: 3s;
   font-size: 70px;
   font-family: 'Fjalla One', sans-serif;
-  color: #333333;
+  color: white;
 }
 
 @keyframes blur {
