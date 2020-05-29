@@ -30,6 +30,12 @@ body {
   }
 }
 
+.title {
+  float: center;
+  position: relative;
+  bottom: 200px;
+}
+
 #nav {
   position: sticky;
   width: 100%;
