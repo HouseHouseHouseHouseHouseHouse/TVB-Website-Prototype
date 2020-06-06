@@ -40,6 +40,7 @@ body {
 
 #nav {
   position: sticky;
+  bottom: 107px;
   top: 0px;
   width: 100%;
   height: 48px;
@@ -101,6 +102,8 @@ body {
 }
 
 #footnote {
+  position: sticky;
+  bottom: -60px;
   background-color: #222;
   padding: 20px;
 }
