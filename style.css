@@ -111,7 +111,7 @@ body {
   transition: 0.3s;
 }
 
-.fa-sm:hover {
+.fa:hover {
     opacity: 0.6;
 }
 
