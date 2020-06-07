@@ -1,3 +1,8 @@
+@font-face {
+  font-family: BreeSerif;
+  src: url('bree_serif.ttf');
+}
+
 body {
   margin: 0px;
 }
