@@ -6,7 +6,7 @@ body {
   padding-top: 56.25%;
   width: 100%;
   background-image: url('Images/Team.JPG');
-  background-size: 100% auto;
+  background-size: 100%;
   background-position: center;
   animation-name: blur;
   animation-duration: 3s;
