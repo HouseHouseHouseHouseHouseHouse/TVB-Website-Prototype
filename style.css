@@ -7,6 +7,7 @@ body {
   width: 100%;
   background-image: url('Images/Team.JPG');
   background-size: 100% auto;
+  background-position: center;
   animation-name: blur;
   animation-duration: 3s;
   font-size: 10vw;
@@ -21,7 +22,7 @@ body {
     filter: blur(10px);
     -webkit-filter: blur(10px);
     font-size: 0px;
-    transform: scale(1.05);
+    background-size: 105%;
   }
   60% {
     filter: blur(0px);
@@ -31,6 +32,7 @@ body {
   to {
     font-size: 10vw;
     transform: scale(1);
+    background-size: 100%;
   }
 }
 
