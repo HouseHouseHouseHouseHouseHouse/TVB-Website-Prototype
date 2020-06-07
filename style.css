@@ -1,6 +1,11 @@
 @font-face {
-  font-family: BreeSerif;
-  src: url('bree_serif.ttf');
+  font-family: Heading;
+  src: url('misc/barlow.ttf');
+}
+
+@font-face {
+  font-family: Paragraph;
+  src: url('misc/bree_serif.ttf');
 }
 
 body {
