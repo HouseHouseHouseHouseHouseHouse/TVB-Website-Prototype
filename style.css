@@ -13,6 +13,7 @@ body {
   font-family: 'Fjalla One', sans-serif;
   text-shadow: 3px 3px 8px black;
   color: white;
+  transform: scale(1);
 }
 
 @keyframes blur {
@@ -20,6 +21,7 @@ body {
     filter: blur(10px);
     -webkit-filter: blur(10px);
     font-size: 0px;
+    transform: scale(1.05);
   }
   60% {
     filter: blur(0px);
@@ -28,6 +30,7 @@ body {
   }
   to {
     font-size: 10vw;
+    transform: scale(1);
   }
 }
 
