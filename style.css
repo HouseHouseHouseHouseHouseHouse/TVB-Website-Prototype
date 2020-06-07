@@ -1,4 +1,9 @@
 @font-face {
+  font-family: Droidiga;
+  src: url('droidiga.ttf');
+}
+
+@font-face {
   font-family: Heading;
   src: url('misc/barlow.ttf');
 }
@@ -21,7 +26,7 @@ body {
   animation-name: blur;
   animation-duration: 3s;
   font-size: 10vw;
-  font-family: 'Fjalla One', sans-serif;
+  font-family: Droidiga, sans-serif;
   text-shadow: 3px 3px 8px black;
   color: white;
   transform: scale(1);
