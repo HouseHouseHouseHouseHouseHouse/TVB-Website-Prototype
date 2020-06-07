@@ -131,6 +131,10 @@ body {
   font-family: heading;
 }
 
+#content h1 {
+  font-size: 35px;
+}
+
 #footnote {
   position: sticky;
   bottom: -60px;
