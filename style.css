@@ -45,8 +45,7 @@ body {
     font-size: 0px;
   }
   to {
-    font-size: 10vw;
-    transform: scale(1);
+    font-size: 9vw;
     background-size: 100%;
   }
 }
