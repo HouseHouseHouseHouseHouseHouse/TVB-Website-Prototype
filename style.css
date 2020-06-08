@@ -140,6 +140,11 @@ body {
   font-size: 35px;
 }
 
+.max700 {
+  width: 700px;
+  max-width: 100%;
+}
+
 #footnote {
   position: sticky;
   bottom: -60px;
