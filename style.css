@@ -18,11 +18,11 @@ body {
 }
 
 #bang {
-  padding-top: 56.25%;
+  padding-top: 46.25%;
   width: 100%;
   background-image: url('Images/Team.JPG');
   background-size: 100%;
-  background-position: center;
+  background-position: 50% 80%;
   animation-name: blur;
   animation-duration: 3s;
   font-size: 9vw;
