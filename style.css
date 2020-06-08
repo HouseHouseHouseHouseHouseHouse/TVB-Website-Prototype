@@ -38,6 +38,7 @@ body {
     -webkit-filter: blur(10px);
     font-size: 0px;
     background-size: 150%;
+    background-position: center;
   }
   60% {
     filter: blur(0px);
@@ -47,6 +48,7 @@ body {
   to {
     font-size: 9vw;
     background-size: 100%;
+    background-position: 50% 80%;
   }
 }
 
