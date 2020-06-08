@@ -59,7 +59,7 @@ body {
 
 #nav {
   position: sticky;
-  bottom: 92px;
+  bottom: 87px;
   top: 0px;
   width: 100%;
   height: 48px;
@@ -149,7 +149,7 @@ body {
   position: sticky;
   bottom: -60px;
   background-color: #222;
-  padding: 20px;
+  padding: 15px;
 }
 
 .fa {
