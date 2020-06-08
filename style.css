@@ -22,7 +22,7 @@ body {
   width: 100%;
   background-image: url('Images/Team.JPG');
   background-size: 100%;
-  background-position: 50% 80%;
+  background-position: 50% 60%;
   animation-name: blur;
   animation-duration: 3s;
   font-size: 9vw;
