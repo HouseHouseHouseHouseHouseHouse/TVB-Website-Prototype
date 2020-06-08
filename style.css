@@ -37,7 +37,7 @@ body {
     filter: blur(10px);
     -webkit-filter: blur(10px);
     font-size: 0px;
-    background-size: 115%;
+    background-size: 150%;
   }
   60% {
     filter: blur(0px);
