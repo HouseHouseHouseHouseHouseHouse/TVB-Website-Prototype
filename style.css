@@ -94,7 +94,7 @@ body {
   transition: 0.5s;
 }
 
-.nav:hover, .dropdown a:hover {
+.nav:hover, .dropdown a:hover, .nav:active, .dropdown a:active {
   background-color: #4CBB17;
   color: white;
 }
