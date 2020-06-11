@@ -99,7 +99,7 @@ body {
   color: white;
 }
 
-.nav .active {
+#nav .active {
   background-color: #555;
   color: #4CBB17;
 }
